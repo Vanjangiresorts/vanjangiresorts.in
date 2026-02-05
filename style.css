@@ -1,7 +1,3 @@
-body {
-  font-family: 'Poppins', sans-serif;
-}
-
 .hero-video {
   position: relative;
   height: 100vh;
@@ -31,30 +27,3 @@ body {
   align-items: center;
   text-align: center;
 }
-
-.hero-overlay {
-  background: rgba(0,0,0,0.55);
-  width: 100%;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.hero h1 {
-  font-size: 3.5rem;
-  font-weight: 700;
-}
-
-.hero p {
-  font-size: 1.2rem;
-}
-
-footer p {
-  margin: 5px 0;
-}
-
-
-
-
